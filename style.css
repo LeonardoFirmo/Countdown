@@ -25,3 +25,13 @@ body{
 .countdown-container span{
     font-size: 25px;
 }
+
+@media (max-width:700px) {
+    .data{
+        font-size: 60px;
+    }
+    .countdown-container span{
+        font-size: 18px;
+    }
+    
+}
