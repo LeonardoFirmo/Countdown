@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+body{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto';
+}
+
+.countdown-container{
+    display: flex;
+    width: 22%;
+    height: 90vh;
+    justify-content: space-around;
+    align-items: center;
+}
+.data{
+    font-size: 50px;
+}
+.countdown-container span{
+    font-size: 20px;
+}
