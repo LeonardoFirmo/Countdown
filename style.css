@@ -28,10 +28,10 @@ body{
 
 @media (max-width:700px) {
     .data{
-        font-size: 60px;
+        font-size: 40px;
     }
     .countdown-container span{
-        font-size: 18px;
+        font-size: 12px;
     }
     
 }
