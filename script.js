@@ -2,7 +2,7 @@ let dia = document.querySelector('#dia')
 let hora = document.querySelector('#hora')
 let min = document.querySelector('#min')
 let seg = document.querySelector('#seg')
-const domingo = "20 sep 2023"
+const domingo = "01 jan 2023"
 
 
 
